@@ -1,5 +1,7 @@
 # reg-MateTranslate
 
+Cần cài đặt thư viện requests bằng lệnh pip install requests
+
 Nếu muốn đăng ký nhiều tài khoản, hãy sử dụng mẫu:
 
 Tentaikhoan
